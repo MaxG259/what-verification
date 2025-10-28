@@ -30,6 +30,7 @@
 ## Деплой
 
 🌐 [Посмотреть проект](what-verification.vercel.app)
+[what-verification.vercel.app]
 
 ## Структура
 
