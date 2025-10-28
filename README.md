@@ -29,7 +29,7 @@
 
 ## Деплой
 
-🌐 [Посмотреть проект](what-verification-a04p69ei8-maxs-projects-1088257c.vercel.app)
+🌐 [Посмотреть проект](what-verification.vercel.app)
 
 ## Структура
 
