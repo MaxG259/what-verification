@@ -1,0 +1,16 @@
+input {
+  width: 71px;
+  height: 71px;
+  font-size: 24px;
+  text-align: center;
+  border: 2px solid #dfe2d7;
+  border-radius: 15px;
+  padding: 6px;
+  outline: none;
+  box-shadow: inset 2px 5px 10px rgba(0, 0, 0, 0.3);
+  transition: 300ms ease-in-out;
+}
+
+input.active {
+  border: 2px solid #79a82c;
+}
