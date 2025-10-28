@@ -29,7 +29,7 @@
 
 ## Деплой
 
-🌐 [Посмотреть проект](https://what-verification-demo.netlify.app)
+🌐 [Посмотреть проект](what-verification-a04p69ei8-maxs-projects-1088257c.vercel.app)
 
 ## Структура
 
